@@ -1,0 +1,1 @@
+Simulated and passed resistance against 20 historical cyberattacks including STUXNET, Log4Shell, SolarWinds, etc.

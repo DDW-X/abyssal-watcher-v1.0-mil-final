@@ -1,0 +1,7 @@
+
+version: '3'
+services:
+  abyssal:
+    build: .
+    container_name: abyssal_watcher_container
+    restart: unless-stopped
