@@ -113,7 +113,7 @@ PRs are welcome, but will be reviewed with strict security policy.
 If you discover a vulnerability:
 
 - Do **not** file a public issue
-- Email us directly at: **security@abyssalwatcher.dev**
+- Email us directly at: **DDW.X.OFFICIAL@gmail.com**
 - We respond within 7 days
 
 ---
